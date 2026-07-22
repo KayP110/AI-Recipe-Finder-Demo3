@@ -90,4 +90,4 @@ Tham gia sự kiện **“AWS FIRST CLOUD AI JOURNEY COMMUNITY DAY”** là mộ
 * Thêm các hình ảnh của các bạn tại đây
 
 ![Event 1](/images/4-Event/Event1_1.jpg)
-![Event 1](/images/4-Event/Event1.jpg)
+![Event 1](/images/4-Event/Event1_2.jpg)

@@ -60,4 +60,4 @@ Giải quyết vấn đề thiên kiến cá nhân và thất thoát ứng viên
 #### Một số hình ảnh chứng minh tham gia sự kiện:
 
 ![Event 2](/images/4-Event/Event2_1.jpg)
-![Event 2](/images/4-Event/Event2_3.jpg)
+![Event 2](/images/4-Event/Event2_4.jpg)

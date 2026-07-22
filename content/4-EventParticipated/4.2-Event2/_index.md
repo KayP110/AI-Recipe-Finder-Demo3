@@ -65,4 +65,4 @@ To allow Amazon Q to connect to internal databases without exposing data to the 
 #### Event Photos
 
 ![Event 2](/images/4-Event/Event2_1.jpg)
-![Event 2](/images/4-Event/Event2_3.jpg)
+![Event 2](/images/4-Event/Event2_4.jpg)
