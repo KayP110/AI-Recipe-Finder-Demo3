@@ -1,4 +1,4 @@
-baseURL = "https://workshop-sample.awsfcaj.com/"
+baseURL = "https://ai-recipe-finder-demo3.vercel.app/"
 relativeURLs = false
 canonifyURLs = false
 defaultContentLanguage = "en" 
